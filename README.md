@@ -223,6 +223,6 @@ http://<EC2_PUBLIC_IP>
 ![application-access](images/application-access.png)
 
 
-# Conclusion
+# Conclusio
 
 ## This project demonstrates real CI/CD practices using GitHub Actions, Docker, and a self-hosted runner on EC2.
