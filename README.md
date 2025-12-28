@@ -225,4 +225,4 @@ http://<EC2_PUBLIC_IP>
 
 # Conclusion
 
-## This project demonstrates real CI/CD practices using GitHub Actions, Docker, and a self-hosted runner on EC2.
+## This project demonstrates real CI/CD practices using GitHub Actions, Docker, and a self-hosted runner on EC2
